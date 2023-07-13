@@ -1,7 +1,12 @@
-# notes_app
+# Google Keep Clone
 
-A new Flutter project.
+Built using Flutter & Provider State Management
 
+<div style="display: flex;">
+  <img src="Screenshot_20230713-144531.png" alt="Image 1" style="width: 200px; height: 400px; margin-right: 10px;" />
+  <img src="Screenshot_20230713-134928.png" alt="Image 2" style="width: 200px; height: 400px;margin-right: 10px;" />
+  <img src="Screenshot_20230713-134918.png" alt="Image 2" style="width: 200px; height: 400px;" />
+</div>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
